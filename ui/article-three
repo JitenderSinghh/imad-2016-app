@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <title>
+            Article Three | Jitender Singh
+        </title>
+        <meta name="viewport" content="width=width-device, initial-scale=1" />
+    </head>
+<body>
+    <div>
+        <a href="/">Home</a>
+    </div>
+    <hr/>
+    <h3>
+        Article Three
+    </h3>
+    <div>
+        Oct 11, 2016
+    </div>
+    <div>
+        <p>
+            This is the content for my third article. 
+        </p>
+       
+    </div>
+</body>
+
+</html>
