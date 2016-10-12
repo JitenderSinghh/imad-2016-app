@@ -1,6 +1,5 @@
 console.log('Loaded!');
 var button = document.getElementById('counter');
-var counter = 0;
 
 button.onclick = function(){
     
@@ -17,6 +16,7 @@ button.onclick = function(){
                 span.innerHTML = counter.toString();
             }
         }
+        
     };
     
     //make the request
