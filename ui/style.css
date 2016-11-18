@@ -59,7 +59,7 @@
   position: fixed;
   margin-left: 20%;
   float: left;
-  background-image: url("images/mypic.webp");
+  background-image: url("ui/images/mypic.webp");
   background-repeat: no-repeat;
   background-size: cover;
   height: 100%;
