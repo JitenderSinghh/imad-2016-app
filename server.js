@@ -22,7 +22,7 @@ app.get('/ui/Facebook.png', function (req, res) {
 });
 
 app.get('/ui/images/Gmail.ico', function (req, res) {
-  res.sendFile(path.join(__dirname, 'ui', 'Gmail.ico'));
+  res.sendFile(path.join(__dirname, 'ui', 'images', 'Gmail.ico'));
 });
 
 
