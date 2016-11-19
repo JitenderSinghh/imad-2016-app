@@ -26,7 +26,7 @@ app.get('/ui/images/Gmail.ico', function (req, res) {
 });
 
 app.get('/ui/images/mypic.webp', function (req, res) {
-  res.sendFile(path.join(__dirname, 'ui', 'images', 'Gmail.ico'));
+  res.sendFile(path.join(__dirname, 'ui', 'images', 'JMax.jpg'));
 });
 
 var port = 8080; // Use 8080 for local development because you might already have apache running on 80
