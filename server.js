@@ -25,8 +25,8 @@ app.get('/ui/images/Gmail.ico', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'images', 'Gmail.ico'));
 });
 
-app.get('/ui/images/mypic.webp', function (req, res) {
-  res.sendFile(path.join(__dirname, 'ui', 'images', 'mypic.webp'));
+app.get('/ui/images/MaxJ.png', function (req, res) {
+  res.sendFile(path.join(__dirname, 'ui', 'images', 'MaxJ.png'));
 });
 
 
